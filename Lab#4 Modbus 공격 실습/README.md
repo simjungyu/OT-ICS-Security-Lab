@@ -35,15 +35,18 @@ attack_motor.py
 
 <img width="401" height="35" alt="image" src="https://github.com/user-attachments/assets/64c9ba97-9590-4be3-b1ba-6608256674c1" />
 
-공격 전
+### 공격 전
 
 <img width="1209" height="506" alt="캡1처" src="https://github.com/user-attachments/assets/0d72493b-3094-414e-87ce-6394932db725" />
+
 - Temp:0.0
 - Motor:0
 - E-STOP:0
-공격 후
+
+### 공격 후
 
 <img width="1209" height="506" alt="캡1처" src="https://github.com/user-attachments/assets/498c4d4a-daa3-4870-b978-140539b99dce" />
+
 - Temp:9999.0
 - Motor:1
 - E-STOP:1
