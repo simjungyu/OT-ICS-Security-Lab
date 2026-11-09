@@ -37,7 +37,7 @@ attack_motor.py
 
 ### 공격 전
 
-<img width="1209" height="506" alt="캡1처" src="https://github.com/user-attachments/assets/0d72493b-3094-414e-87ce-6394932db725" />
+<img width="1207" height="507" alt="캡처" src="https://github.com/user-attachments/assets/9ededfc0-7038-4d4b-8989-41546e8017d1" />
 
 - Temp:0.0
 - Motor:0
