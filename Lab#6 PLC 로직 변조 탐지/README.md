@@ -50,7 +50,7 @@ ELSE
 END_IF;
 END_PROGRAM
 ```
-- Temp는 25 + Count /2로 25 ~ 75까지 변동한다.
+- Temp는 25 + Counter / 2로 25 ~ 75까지 변동한다.
 - E-STOP이 켜지면 Motor가 꺼지고 E-STOP이 꺼지면 Motor는 켜진다.
 
 <img width="616" height="452" alt="image" src="https://github.com/user-attachments/assets/9a6a1102-f27e-4f00-b1bb-694579c45d63" />
@@ -93,7 +93,7 @@ IF Estop THEN
 변조 탐지를 하려면 해시와 해시를 비교해야 한다.
 
 ```
-echo "This FIle:"; sha256sum ~/OpenPLC_v3/webserver/st_files/974784.st
+echo "This File:"; sha256sum ~/OpenPLC_v3/webserver/st_files/974784.st
 echo "Backup File:"; cat ~/OT-ICS-Security-Lab/Lab06/backup/974784.sha256
 ```
 
